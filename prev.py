@@ -1,5 +1,7 @@
 from sklearn.svm import LinearSVC
 
+# pip install -r requirements.txt
+
 composto1 = [1, 1, 1]
 composto2 = [0, 0, 0]
 composto3 = [1, 0, 1]
